@@ -2,3 +2,5 @@ profile page code
 chat code 
 last sceen code page
 hiding the last sceen
+video call
+audio call
